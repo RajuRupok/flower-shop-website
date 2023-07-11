@@ -126,3 +126,74 @@ header {
 /* Same Day Delivery Section Remains */
 
 /* End of Our Featured Flowers Section */
+
+/* <!-- Hot Deal Section Starts --> */
+
+.middle-section{
+    width: 1922px;
+    height: 620px;
+    background-color: #E554731A;
+    border-radius: 8px;
+    
+    display: flex;
+    
+    justify-content: space-between; 
+  }
+  
+  .middle-content{
+    /* max-width: 500px; */
+    padding: 80px 30px 30px 160px;
+    /* align-items: center; */
+  }
+  .middle{
+    display: flex;
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    width: 537px;
+    text-align: center;
+    margin-left: 40%;
+    margin-top: 20%;
+
+  }
+.middle-intro{
+    display: flex;
+    width: 594px;
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    margin-left: 35%;
+    margin-top: -1%;
+    padding-top: -40%;
+}
+
+  .middle-btn {
+    border-radius: 8px;
+    background: #E55473;
+    padding: 20px 43px;
+    margin-left: 65%;
+    gap: 10px;
+    display: inline-block;
+    font-size: 20px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    color: #FFF
+  }
+  .middle-pic {
+    width: 318px;
+    height: 420px;
+    align-items:center;
+    margin-top: 6%;
+    padding-right: 20%;
+  }
+
+/* <!-- Hot Deal Section Ends --> */
