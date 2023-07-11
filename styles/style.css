@@ -1,0 +1,73 @@
+
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.text-primary {
+    color: black
+}
+
+/* header related style */
+
+header {
+    background-color: #E554731A;
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    
+  }
+
+  .banner{
+    
+    height: 850px;
+    padding: 30px 30px 30px 160px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .banner-content{
+    max-width: 500px;
+  }
+  .heading{
+    display: flex;
+    width: 700px;
+    color: #272727;
+    font-family: Lato;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 96px;
+    margin: 0;
+    padding-left: 10%;
+    padding-top: 10%;
+  }
+.heading-intro{
+    display: flex;
+    width: 634px;
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    line-height: 30px;
+    margin-top: -8%;
+    padding-left: 10%;
+    padding-top: 10%;
+}
+
+  .main-btn {
+    border-radius: 8px;
+    background: #E55473;
+    font-size: 20px;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+    display: inline-block;
+    margin-left: 10%;
+    color: #FFF
+  }
+  .header-pic {
+    width: 500px;
+    align-items:center;
+    padding-right: 15%;
+  }
+/* End of Part Header Banner Part */
